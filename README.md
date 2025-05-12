@@ -1,4 +1,4 @@
-# Nuxt 3 Sales Dashboard
+# Sales Dashboard (EVA Task)
 
 This project is a modern, responsive sales dashboard built with [Nuxt 3](https://nuxt.com), using Tailwind CSS for styling, Pinia for state management, Highcharts for chart visualization, and Docker for containerized deployment.
 
